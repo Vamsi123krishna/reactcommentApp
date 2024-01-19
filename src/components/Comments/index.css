@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.form-elements {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+.input-type {
+  margin: 10px;
+}
+.text-area {
+  margin: 10px;
+}
+.btn-element {
+  background-color: #0b69ff;
+  color: white;
+  font-family: 'Roboto';
+}
+.maincomment-container {
+  display: flex;
+  align-items: center;
+}
+
+.comment-container{
+  display: flex;
+  flex-direction: column;
+}
